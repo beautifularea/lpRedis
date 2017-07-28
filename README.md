@@ -1,0 +1,2 @@
+# lpRedis
+Little Redis implementation.
